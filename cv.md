@@ -91,3 +91,16 @@
 
 main();`
 ## **Experience**
+
+## **Education**
+
+- **University:**
+    - Sukhoi State Technical University of Gomel, Faculty of Power Engineering, Department of Power Supply, full-time education, 2012-2017
+    - Gomel State Vocational and Technical College of Electrical Engineering, specialty electrician, full-time education, 2009-2012.
+- **Courses:**
+    - html academy
+    - learn.javascript
+
+## **English**
+
+- **A2**
